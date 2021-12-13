@@ -1,6 +1,6 @@
 # ISTM6210
 Capstone Project - StudyMonster 
-studymonster.info 
+# studymonster.info 
 
 
 Admin Account:
