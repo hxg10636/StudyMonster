@@ -19,7 +19,7 @@
 
 ## Quick Tutorial
 
-![https://www.linkpicture.com/q/Izf2j_ZrQRA-SD.jpg](https://www.linkpicture.com/q/Izf2j_ZrQRA-SD.jpg)
+![https://www.linkpicture.com/q/Izf2j_ZrQRA-SD.jpg](https://www.linkpicture.com/q/Izf2j_ZrQRA-SD.jpg)    
 [StudyMonster User Training Video](https://www.youtube.com/watch?v=Izf2j_ZrQRA)
 
 ## System Requirements
@@ -47,13 +47,13 @@
 
 ## Screenshots
 
- 1. Login
+ 1. Login   
 ![enter image description here](https://www.linkpicture.com/q/Picture1_26.png)
 
- 2. Dashboard
+ 2. Dashboard   
  ![enter image description here](https://www.linkpicture.com/q/Picture2_63.png)
 
-3. Adding Courses
+3. Adding Courses   
 ![enter image description here](https://www.linkpicture.com/q/Picture2_63.png)
 
 ## Version
@@ -68,4 +68,4 @@
 ## To-do list?
 - Notice and Announcement
 - Discussion board
-- Testing systems 
+- Testing systems
